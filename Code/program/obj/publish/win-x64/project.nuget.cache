@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Ajib1wUO0ilEGKO4zuKOtdvAoYUuiw4ehZhJjX+Np10pD6o9D68C+ttvLy0AfIn/WtltSiYfVkF3utD7MWAFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasmeen\\Documents\\GitHub\\workshop-project\\program\\program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasmeen\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\yasmeen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.2\\microsoft.netcore.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\yasmeen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\yasmeen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.2\\microsoft.aspnetcore.app.runtime.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

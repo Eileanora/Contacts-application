@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0/rR39gT+nCHjSUE8/Q8ohyNNieVpUmyqeEdxE7QQ72hffZHdvbl/6fNa3eDv37gYzMkyC5Rs/nh6ARv44Nbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasmeen\\Documents\\GitHub\\Contacts-application\\Code\\program\\program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasmeen\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
